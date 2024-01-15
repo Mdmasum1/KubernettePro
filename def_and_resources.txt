@@ -1,1 +1,36 @@
+***Create and Deploy Your First Kebernetes Pod
+
+
+Kebernetes, maintained by the Cloud Native Computing Foundation, 
+is a leading open-source system for containerize workload.
+
+Companies worldwide use kubernetes to automate the deployment, management, and 
+scaling of container-based applications. With Companies continuing to adopt 
+containerization, kubernetes skills are highly in demand.
+
+The project is deal for new and seasonded application developers and devOps
+professionals. By the end of the hands-on guided project, you will  have 
+gained practical kubernetes experience that employers value. You will know how to create 
+ and deploy a container pod, be able to describe kubernetes container management,
+ and will have learned how kubernetes handles load balancing.
+
+ You will have developed a Foundation in Database-as-service(DBaaS) management and 
+ be familiar with common kubernetes features and tools such as the kubectl
+ command line interface and imperative obejct configuration
+
+  Learning obejctives:
+  1. use the kubectl CLI to extract cluster and pod information
+  2. Use imperative and declarative commands and configuration to create
+  and deploy kubernetes pod(ideal for production)
+
+  3. Explain how kubernetes handles applications load balancing 
+  4. Create a ReplicaSet that maintain a set number of replicas 
+
+
+  What you will need :
+  Just a web browser
+
+  Okay, you are ready to start !
+  
+
 
