@@ -30,7 +30,9 @@ gained practical kubernetes experience that employers value. You will know how t
   What you will need :
   Just a web browser
 
-  Okay, you are ready to start !
+  Then , you are ready to start !
+
+
   
 
 
