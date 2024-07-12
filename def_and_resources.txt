@@ -32,6 +32,11 @@ gained practical kubernetes experience that employers value. You will know how t
 
   Then , you are ready to start !
 
+  ******
+  First command to intialize Keubernetes cluster:    
+      minikube start
+
+
 
   
 
